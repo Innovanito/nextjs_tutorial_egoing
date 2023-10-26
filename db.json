@@ -1,0 +1,61 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ..."
+    },
+    {
+      "title": "javascript3",
+      "body": "javscript3 is ...",
+      "id": 3
+    },
+    {
+      "title": "javascript",
+      "body": "javascdript is ...",
+      "id": 5
+    },
+    {
+      "title": "javascript",
+      "body": "javascdript is ...",
+      "id": 6
+    },
+    {
+      "title": "Omega3",
+      "body": "Omega3 is a good for our health",
+      "id": 7
+    },
+    {
+      "title": "Omega5",
+      "body": "Omega5 is bad",
+      "id": 8
+    },
+    {
+      "title": "b",
+      "body": "bb",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
